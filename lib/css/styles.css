@@ -1,0 +1,28 @@
+#map {
+    height: 100%;
+}
+
+html,
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+main {
+    width: auto;
+    height: auto;
+}
+
+footer {
+
+}
